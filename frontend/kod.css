@@ -1,0 +1,58 @@
+h3 {
+    color:mediumslateblue;
+    font-size: 16px;
+    text-align: center;
+}
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+
+}
+ul{
+  text-align: center;
+  color: black
+}
+
+li{
+  text-align: center;
+  list-style-type: none;
+  color: black
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: %50;
+}
+
+img{
+ display: block;
+ margin: 0px auto;
+}
+
+body{
+  background-color:#E9ECEF
+}
+h2{
+  text-align: center;
+}
+h5{
+  text-align: center;
+}
+
+div {
+      text-align: center;
+    }
+
+    .card{
+      margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+      border color: blue
+    }
+.jumbotron m-3{
+  background-color: white
+}
